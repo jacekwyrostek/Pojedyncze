@@ -1,4 +1,4 @@
-def checkPhrase(txtFile)
+def checkPhrase(txtFile):
   list=open(txtFile,'r')
   x=0
   for line in list:
